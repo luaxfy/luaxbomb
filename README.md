@@ -1,5 +1,6 @@
 # luaxbomb
 Edited SMS Bomber For Turkey
+enough yancar asko
 ```console
 git clone https://github.com/ilyluax/luaxbomb
 cd luaxbomb
